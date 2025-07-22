@@ -7,7 +7,7 @@ claude
 ```
 
 ## 원큐에 생산 완료된 지침 목록
-- MCP1.md 지침을 수행
+- [MCP1.md](MCP1.md) 지침을 수행
 
 ## 생산완료 프로젝트
 - [Project/MCP1](Project/MCP1/README.md) - RavenDB를 이용한 노트기능 저장

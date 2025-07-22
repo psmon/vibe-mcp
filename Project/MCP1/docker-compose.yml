@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  ravendb:
+    image: ravendb/ravendb:latest
+    container_name: webnori-ravendb
+    ports:
+      - "9000:8080"
+      - "38888:38888"
+    environment:
+      - RAVEN_Setup_Mode=None
+      - RAVEN_Security_UnsecuredAccessAllowed=PublicNetwork      
+      - RAVEN_License_Eula_Accepted=true    

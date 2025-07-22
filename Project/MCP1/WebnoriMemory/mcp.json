@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "webnori-memory": {
+      "command": "dotnet",
+      "args": ["run", "--", "--serverMode"],
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

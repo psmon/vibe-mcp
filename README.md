@@ -1,6 +1,6 @@
 ﻿# 로컬전용 MCP.net을 바이브로 양산하는 프로젝트 
 
-## Claude Code로 생상되었습니다.
+## Claude Code로 생성 시도되었습니다.
 
 ```bash
 claude
